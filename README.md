@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is an end-to-end machine learning pipeline designed to predict the risk of patient complications based on hospital admission data. It bridges the gap between data processing, predictive modeling, and cloud deployment by featuring a trained **Logistic Regression** model hosted on a live, interactive web application.
 
-**👉 [Click here to view the live app!](https://your-app-url-here.streamlit.app/)** *(Replace this link with your actual Streamlit URL)*
+**👉 [Click here to view the live app!]https://mukul-health-risk.streamlit.app/
 
 ---
 
